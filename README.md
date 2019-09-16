@@ -57,10 +57,6 @@ The test automation framework is comprised of following tools and libraries
 
 Test Automation framework support
 ------------------------------------------
-Gaurav Karvir
---------------
-Test Automation Architect  
-genroks@gmail.com  
 
 
 
@@ -78,7 +74,7 @@ Open Terminal or command line
 cd to the desired folder where the test automation source code needs to be checkout
 
 Run command
-git clone https://github.com/gauravkarvir/cucumber_testng_java.git
+git clone https://github.com/luc007/automation.git
 
 This will download the latest template source code
 
@@ -309,7 +305,7 @@ Run Test Suite
 --------------------------------------------------------------------
 Test Suites are used to run a group of Tests which are tagged and represented in form of Feature files & Scenarios
 
-Location: /home/dev/src/automationFramework/src/test/java/com/gk/test
+Location: /home/dev/src/automationFramework/src/test/java/com/dsra/test
 File Conventions:Every Class file ends with Suite.class (RunWebATSuite.class)  
 
 
